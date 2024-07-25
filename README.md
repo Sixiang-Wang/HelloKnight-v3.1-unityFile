@@ -1,4 +1,4 @@
-# HelloKnight-v3.1-unityFile
+# HelloKnight-unityFile
 This is a Unity File of Hello Knight
 
 ### The game code files and resources is under the branch "master"
