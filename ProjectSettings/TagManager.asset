@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bounds
+  - Water
+  - Interactable
+  - Used
+  - BackGround
+  - BackgroundFar
+  - BackgroundMiddle
+  - BackgroundNear
+  - InstructionMove
+  - InstructionJump
+  - InstructionAttack
+  - InstructionDash
+  - AttackDown
+  - InstructionAim
+  - closeDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Attack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1864029187
+    locked: 0
+  - name: Deep Back
+    uniqueID: 655373367
+    locked: 0
+  - name: Back
+    uniqueID: 3255774829
+    locked: 0
+  - name: Middle
+    uniqueID: 931956713
+    locked: 0
+  - name: Front
+    uniqueID: 2553561251
+    locked: 0
